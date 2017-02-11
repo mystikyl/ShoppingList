@@ -1,0 +1,209 @@
+11  air fresheners
+10  aluminum foil
+13  antacids
+13  tums
+13  baby needs
+10  sandwich bags
+10  trash bags
+5  baked beans
+9  baking needs
+13  bandages
+4  bar b que sauce
+4  bbq sauce
+4  BBQ sauce
+13  bar soap
+10  bath tissue
+10  toilet paper
+10  tp
+13  batteries
+5  beans
+11  bleach
+17  bottle water
+11  bathroom cleaners
+3  boxed juice
+1  bread
+11  dish soap
+9  cake mix
+8  candy
+4  canned fish
+3  canned fruit
+5  canned gravy
+3  canned juice
+4  canned meat
+9  canned milk
+5  canned vegetables
+14  cat food
+2  cereal
+14  charcoal
+3  chocolate syrup
+11  cleaners
+3  coffee
+3  powered coffee creamers
+3  coffee filters
+16  cookies
+13  cough medicine
+13  cold medicine
+16  crackers
+12  deodorants
+13  diapers
+14  dog food
+11  clearance
+5  dried beans
+3  dried fruit
+13  ensure
+9  evaporated milk
+11  fabric softeners
+10  facial tissue
+10  kleenex
+13  feminine hygiene
+9  flour
+9  foul bakeware
+FROZEN_DEPARTMENT  frozen food
+3  fruit juice
+10  garbage bags
+16  graham crackers
+2  granola bars
+5  gravy mixes
+8  greeting cards
+8  anniversary cards
+8  birthday cards
+8  sympathy cards
+12  hair coloring
+12  hair spray
+12  hand lotions
+12  hand soap
+14  hardware
+6  hispanic food
+1  honey
+2  hot cereal
+3  hot tea
+3  hot cocoa
+3  hot chocolate
+9  household gadgets
+15  ice cream cones
+15  ice cream toppings
+16  iced tea
+2  instant breakfast
+5  instant potatoes
+1  jam
+1  jelly
+9  jello
+4  ketchup
+9  kitchen utensils
+16  kool aid
+11  landry soap
+14  light bulbs
+14  litter
+LIQUOR_DEPARTMENT  liquor
+LIQUOR_DEPARTMENT  beer
+LIQUOR_DEPARTMENT  wine
+10  lunch bags
+REGISTERS  magazines
+REGISTERS  books
+4  mayo
+4  mayonnaise
+6  mexican foods
+11  mops
+11  brooms
+11  canned mushrooms
+4  mustard
+10  napkins
+9  baking nuts
+16  snack nuts
+2  oatmeal
+14  office supplies
+9  cooking oils
+9  vegetable oil
+9  olive oil
+4  olives
+11  oven cleaners
+5  packaged dinners
+2  pancake mix
+2  pancake mixes
+2  pancake syrup
+10  paper cup
+10  paper plates
+10  paper napkins
+10  paper towels
+7  pasta
+7  caned pasta
+7  dry pasta
+16  peanuts
+10  peanut butter
+14  pens
+14  pencils
+14  pet supplies
+4  pickles
+9  canned pie filling
+9  pie shells
+5  pizza sauce
+5  pizza mix
+15  popcorn
+15  potato chips
+15  pretzels
+5  dry potatoes
+9  pudding mix
+9  pudding
+10  plastic wrap
+3  raisins
+12  razor blades
+5  rice
+15  rice cakes
+4  salad dressings
+4  salad toppings
+9  seasoning salt
+16  saltine crackers
+4  sandwich spreads
+14  school supplies
+1  seasonal
+12  shampoos
+12  shaving cream
+9  shorting
+10  snack cakes
+15  snacks
+17  soda
+17  pop
+17  coke
+17  pepsi
+4  soup
+2  soy milk
+7  spaghetti sauce
+17  sparkling water
+9  spices
+11  sponges
+4  stuffing mix
+9  sugar
+13  slim-fast
+13 slim fast
+13 slimfast
+6  taco sauce
+3  tea
+16  bread sticks
+3  tomato juice
+4  tuna fish
+5  canned tomatoes
+12  tooth paste
+10  tooth picks
+7  vinegar
+PHARMACY  vitamins
+17  water
+10  wax paper
+PRODUCE  carrots
+PRODUCE  celery
+PRODUCE  salad mix
+PRODUCE  salad
+PRODUCE  apples
+PRODUCE  oranges
+PRODUCE  bananas
+PRODUCE  pineapple
+BAKERY  doughnuts
+BAKERY  cake
+BAKERY  muffins
+SEAFOOD  salmon
+SEAFOOD  shrimp
+MEAT  steak
+MEAT  ground beef
+MEAT  chicken
+MEAT  lunch meat
+MEAT  roast
+MEAT  bacon
