@@ -7,6 +7,7 @@
 10  trash bags
 5  baked beans
 9  baking needs
+-1 bananas
 13  bandages
 4  bar b que sauce
 4  bbq sauce
@@ -58,7 +59,7 @@
 13  feminine hygiene
 9  flour
 9  foul bakeware
-FROZEN_DEPARTMENT  frozen food
+19 frozen food
 3  fruit juice
 10  garbage bags
 16  graham crackers
@@ -94,12 +95,12 @@ FROZEN_DEPARTMENT  frozen food
 11  landry soap
 14  light bulbs
 14  litter
-LIQUOR_DEPARTMENT  liquor
-LIQUOR_DEPARTMENT  beer
-LIQUOR_DEPARTMENT  wine
+20  liquor
+20  beer
+20  wine
 10  lunch bags
-REGISTERS  magazines
-REGISTERS  books
+21  magazines
+21 books
 4  mayo
 4  mayonnaise
 6  mexican foods
@@ -129,7 +130,7 @@ REGISTERS  books
 7  caned pasta
 7  dry pasta
 16  peanuts
-10  peanut butter
+1  peanut butter
 14  pens
 14  pencils
 14  pet supplies
@@ -168,12 +169,12 @@ REGISTERS  books
 4  soup
 2  soy milk
 7  spaghetti sauce
-17  sparkling water
-9  spices
-11  sponges
-4  stuffing mix
-9  sugar
-13  slim-fast
+17 sparkling water
+9 spices
+11 sponges
+4 stuffing mix
+9 sugar
+13 slim-fast
 13 slim fast
 13 slimfast
 6  taco sauce
@@ -185,25 +186,29 @@ REGISTERS  books
 12  tooth paste
 10  tooth picks
 7  vinegar
-PHARMACY  vitamins
+20 vitamins
 17  water
 10  wax paper
-PRODUCE  carrots
-PRODUCE  celery
-PRODUCE  salad mix
-PRODUCE  salad
-PRODUCE  apples
-PRODUCE  oranges
-PRODUCE  bananas
-PRODUCE  pineapple
-BAKERY  doughnuts
-BAKERY  cake
-BAKERY  muffins
-SEAFOOD  salmon
-SEAFOOD  shrimp
-MEAT  steak
-MEAT  ground beef
-MEAT  chicken
-MEAT  lunch meat
-MEAT  roast
-MEAT  bacon
+-1 carrots
+-1 celery
+-1 salad mix
+-1  salad
+-1 apples
+-1  oranges
+-1  bananas
+-1  pineapple
+0  doughnuts
+0  cake
+0  muffins
+2.5  salmon
+2.5  shrimp
+2.75  steak
+2.75  ground beef
+2.75  chicken
+2.75  lunch meat
+2.75  roast
+2.75  bacon
+18 milk
+18 eggs
+0.0 granola
+21.0 flowers

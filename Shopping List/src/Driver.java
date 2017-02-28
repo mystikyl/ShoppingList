@@ -1,3 +1,5 @@
+import java.util.Map;
+
 /**
  * Created by mcneelypj on 11/23/2016.
  */
@@ -14,15 +16,23 @@ public class Driver {
         shoppingList = new ShoppingList();
     }
 
-    public String lookupList(String item){
-        String contents = "";
-        if(!shoppingList.lookup(item).equals("")){
+    public Double lookupList(String item){
+        Double contents = -3.0;
+        if(shoppingList.lookup(item) != -3.0){
             contents = shoppingList.lookup(item);
         }
         return contents;
     }
 
-    public void addItem(String item, String isle){
+    public void addItem(String item, double isle){
         shoppingList.addItem(isle, item);
+    }
+
+    public Double getIsle(String item){
+        return shoppingList.getIsle(item);
+    }
+
+    public Map<String, Double> getList(){
+        return shoppingList.getStoreLayout();
     }
 }
